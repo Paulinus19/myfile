@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#slider-2 H2 {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 48px;
+}
+#slider-2 B {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+}
+#slider-2 P {
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+}
+#slider-2 I {
+  font-size: 24px;
+  font-family: 'Merriweather', serif;
+  color: #fbf2be;
+}
+#content5-4 .mbr-section-title {
+  text-align: center;
+  font-size: 46px;
+}
+#content5-4 P {
+  text-align: center;
+  color: #000000;
+}
